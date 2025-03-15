@@ -20,6 +20,7 @@ export class UsuarioComponent {
     name: "Toni",
     age: 40,
     email: "toni.oller@gmail.com",
+    password:"12345678"
   };
   
   constructor() {      
